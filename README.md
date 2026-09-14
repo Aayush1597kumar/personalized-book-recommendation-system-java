@@ -130,3 +130,14 @@ Display Top 5 Recommendations
 The current version is a console-based application and does not provide a graphical or web interface.
 
 Recommendation history is maintained during the application session. More advanced versions can store recommendation history permanently and support multiple user profiles and login functionality.
+
+## Screenshot
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-14 212511" src="https://github.com/user-attachments/assets/526704a7-1140-4f81-8144-0cb859061f74" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-14 212538" src="https://github.com/user-attachments/assets/bbc2f1dc-2179-466e-a209-8539b3535bb5" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-09-14 212804" src="https://github.com/user-attachments/assets/74bc1a96-3330-46cc-8ff7-a32f86f2abe3" />
+
+
+
