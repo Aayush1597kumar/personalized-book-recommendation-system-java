@@ -1,0 +1,10 @@
+1,Clean Code,Robert C. Martin,Technology,4.7,100
+2,The Pragmatic Programmer,Andrew Hunt,Technology,4.8,120
+3,Atomic Habits,James Clear,Self Help,4.8,150
+4,The Alchemist,Paulo Coelho,Fiction,4.6,200
+5,Harry Potter,J.K. Rowling,Fantasy,4.9,300
+6,The Da Vinci Code,Dan Brown,Mystery,4.5,180
+7,A Brief History of Time,Stephen Hawking,Science,4.7,140
+8,Pride and Prejudice,Jane Austen,Romance,4.6,160
+9,Introduction to Algorithms,Thomas H. Cormen,Technology,4.7,130
+10,Rich Dad Poor Dad,Robert Kiyosaki,Self Help,4.5,170
